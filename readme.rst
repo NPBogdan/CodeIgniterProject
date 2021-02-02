@@ -1,3 +1,4 @@
+This a public BASIC CRUD App in CI!
 ###################
 What is CodeIgniter
 ###################
